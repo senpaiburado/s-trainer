@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: transparent;
+}
+
+html {
+  background: linear-gradient(169.29deg, #1D2023 -0.68%, #000000 100%);
+}
