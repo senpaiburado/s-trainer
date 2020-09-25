@@ -31,6 +31,7 @@ export default class WadTest extends React.Component {
             ['F', 'Fa'],
             ['F#', 'Fa'],
             ['G', 'Gi'],
+            ['G#', 'Gi'],
             ['A', 'La'],
             ['A#', 'La'],
             ['B', 'Si']
